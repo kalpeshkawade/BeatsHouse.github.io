@@ -1,0 +1,1164 @@
+@media screen and (max-width: 1800px) {
+    .cu {
+        margin-left: 990px;
+    }
+    .box {
+      
+        margin-left: 7px;
+        width: 110px;
+    }
+    .catb {
+        margin-left: 10px;
+    }
+    .ctb {
+        margin-left: 15px;
+    }
+    .bt {
+        width: 155px;
+        margin-left: 9px;
+    }
+    .real {
+        margin-left: 40px;
+    }
+    .tb {
+        margin-left: 220px;
+    }
+    .art{
+        margin-left: 5px;
+    }
+}
+@media screen and (max-width: 1720px){
+    .cu {
+        margin-left: 900px;
+    }
+    .box {
+        margin-left: 0px;
+    }
+    .catb {
+        width: 160px;
+    }
+    .ctb {
+        width: 155px;
+    }
+    .bt {
+        margin-left: 14px;
+    }
+    .real {
+        width: 265px;
+    }
+    .tb {
+        margin-left: 195px;
+    }
+    .v {
+        height: 150px;
+        width: 154px;
+    }
+}
+@media screen and (max-width: 1630px){
+    .search {
+        margin-left: 56%;
+    }
+    .box {
+        width: 109px;
+    }
+    .catb {
+        width: 150px;
+    }
+    .ctb {
+        width: 151px;
+        margin-left: 12px;
+    }
+    .bt {
+        margin-left: 10px;
+    }
+    .real {
+        margin-left: 38px;
+        width: 255px;
+    }
+    .cu {
+        margin-left: 780px;
+    }
+    .v {
+        height: 150px;
+        width: 151px;
+    }
+}
+@media screen and (max-width: 1550px){
+    .cu {
+        margin-left: 735px;
+    }
+    .ctb {
+        width: 144px;
+        margin-left: 17px;
+    }
+    .bt {
+        margin-left: 16px;
+    }
+    .catb {
+        width: 147px;
+    }
+    .box {
+        width: 113px;
+        margin-left: 2px;
+    }
+    .real {
+        margin-left: 30px;
+        width: 278px;
+    }
+    .v {
+        height: 150px;
+        width: 144px;
+    }
+}
+
+@media screen and (max-width: 1440px ){
+    header {
+        width: 95%;
+      
+        transition: .5s linear; 
+    }
+
+    header .menu_side, .song_side {
+        width: 30%;
+    }
+
+    header .song_side {
+        width: 70%;
+    }
+
+/*    header .song_side .content {
+        height: 18%;
+    }
+    header .menu_side h6 {
+        display: none;
+    }
+    .side {
+        height: 530px;
+    }*/
+    #si{
+         /*margin-top: 20px;*/ 
+        margin-top: 40px;
+         /*margin-bottom: 50px;*/ 
+    }
+    .cu {
+        margin-left: 580px;
+    }
+    .song .bi {
+        margin-left: 65px;
+    }
+    .bx {
+        width: 12%;
+    }
+    .catb {
+        width: 120px;
+    }
+    .ctb {
+        width: 165px;
+        margin-left: 10px;
+    }
+    .bmg {
+        width: 145px;
+    }
+    .bt {
+        width: 145px;
+    }
+    .real {
+        margin-left: 32px;
+        width: 240px;
+    }
+    .book {
+        margin-left: 0px;
+        width: 165px;
+    }
+    .radio {
+        margin-left: 5px;
+    }
+    .tb {
+        margin-left: 100px;
+    }
+    .v {
+        height: 150px;
+        width: 164px;
+    }
+}
+@media screen and (max-width: 1310px){
+    .search {
+        margin-left: 49%;
+    }
+    .cu {
+        margin-left: 490px;
+    }
+    .bx{
+        margin-left: 15px;
+    }
+    .box {
+        width: 110px;
+        margin-left: 2px;
+    }
+    .catb {
+        width: 115px;
+    }
+    .ctb {
+        width: 160px;
+        margin-left: 8px;
+    }
+    .real {
+        margin-left: 30px;
+        width: 250px;
+    }
+    .tb {
+        margin-left: 40px;
+    }
+    .v {
+        height: 150px;
+        width: 160px;
+    }
+}
+@media screen and (max-width: 1210px) {
+    .cu {
+        margin-left: 400px;
+    }
+    .song .bi {
+        margin-left: 55px;
+    }
+    .real {
+        margin-left: 23px;
+        width: 235px;
+    }
+    .tb {
+        margin-left: 5px;
+    }
+    .cbox {
+        width: 95px;
+        margin-left: 15px;
+    }
+    .bg {
+        height: 100px;
+        width: 95px;
+    }
+}
+@media screen and (max-width: 1140px){
+    .tb {
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width: 1120px){
+    .search {
+        margin-left: 44%;
+    }
+    .cu {
+        margin-left: 280px;
+    }
+    .song .bi {
+        margin-left: 44px;
+    }
+    .bx {
+        margin-left: 9px;
+    }
+    .ctb {
+        width: 150px;
+        margin-left: 8px;
+    }
+    .bt {
+        width: 142px;
+        margin-left: 10px
+    }
+    .real {
+        margin-left: 25px;
+        width: 260px;
+    }
+    .cbox {
+        width: 90px;
+        margin-left: 15px;
+    }
+    .radio {
+        margin-left: 3px;
+    }
+    .tb {
+        margin-left: -65px;
+    }
+    .v {
+    height: 150px;
+    width: 150px;
+}
+.bg {
+    height: 100px;
+    width: 90px;
+}
+    
+}
+@media screen and (max-width: 1000px){
+    .search {
+        margin-left: 40%;
+    }
+    .cu {
+        margin-left: 200px;
+    }
+    .box {
+        width: 114px;
+        margin-left: 4px;
+    }
+    .catb {
+        width: 110px;
+    }
+    .ctb {
+        width: 150px;
+        margin-left: 8px;
+    }
+    .bt {
+        width: 146px;
+        margin-left: 16px;
+    }
+    .real {
+        margin-left: 20px;
+        width: 264px;
+    }
+    .cbox {
+        width: 91px;
+        margin-left: 15px;
+    }
+    .fm {
+        flex-wrap: wrap;
+    }
+    .radio {
+        margin-left: 5px;
+    }
+    .tb {
+        margin-left: -120px;
+    }
+}
+@media screen and (max-width: 930px){
+    .search {
+        margin-left: 37%;
+    }
+    .cu {
+        margin-left: 145px;
+    }
+    .side {
+        height: 400px;
+    }
+    .song .bi {
+        margin-left: 35px;
+    }
+    #si {
+        margin-top: 7px;
+    }
+    .box {
+        width: 110px;
+        margin-left: 0px;
+    }
+    .catb {
+        width: 100px;
+    }
+    .ctb {
+        width: 151px;
+        margin-left: 8px;
+    }
+    .bt {
+        width: 142px;
+        margin-left: 10px;
+    }
+    .real {
+        margin-left: 10px;
+        width: 250px;
+    }
+    .cbox {
+        width: 90px;
+        margin-left: 20px;
+    }
+    .bmg {
+        width: 142px;
+    }
+    .abook {
+        flex-wrap: wrap;
+    }
+    .book {
+        margin-left: -3px;
+        width: 150px;
+    }
+    .radio {
+        margin-left: 10px;
+        width: 100px;
+    }
+    .tb th, td {
+        padding-left: 40px;
+    }
+    .tb {
+        margin-left: -80px;
+    }
+}
+@media screen and (max-width: 860px){
+    .all {
+        margin-left: 25px;
+    }
+    .catb {
+        width: 104px;
+        margin-left: 5px;
+    }
+    .ctb {
+        width: 111px;
+        margin-left: 10px;
+        margin-top: 9px;
+        height: 111px;
+    }
+    .v {
+        height: 111px;
+        width: 111px;
+    }
+    .bmg {
+        width: 115px;
+        height: 120px;
+    }
+    .bt p {
+        font-weight: 300;
+        margin-left: 5px;
+    }
+    .bt .bi {
+         z-index: 1; 
+        position: absolute;
+        margin-left: 40px;
+        margin-top: 41px;
+        font-size: 2rem;
+        opacity: 0.8;
+        color: transparent;
+    }
+    .real {
+        margin-left: 10px;
+        width: 224px;
+        height: 60px;
+    }
+    .real .imc {
+        height: 60px;
+        width: 60px;
+        background-size: cover;
+    }
+    .real .bi {
+        margin-left: 15px;
+        margin-top: 15px;
+    }
+    .cbox {
+        width: 90px;
+        margin-left: 10px;
+        height: 91px;
+    }
+    .box {
+        width: 105px;
+        margin-left: 2px;
+    }
+    .art {
+        height: 80px;
+        width: 80px;
+        margin-left: 9px;
+    }
+    .box p {
+        align-items: center;
+        justify-content: center;
+        margin-left: 5px;
+    }
+    .book {
+        margin-left: 5px;
+        width: 120px;
+    }
+     .bmg {
+        width: 142px;
+    } 
+    .tb {
+    margin-left: 20px;
+}
+    .tb th, td {
+        padding-left: 10px;
+    }
+    .ra {
+        width: 100px;
+    }
+    .radio {
+        margin-left: 6px;
+        width: 100px;
+    }
+    .bt {
+        width: 115px;
+        margin-left: 9px;
+        height: 175px;
+    }
+    .bg {
+        height: 90px;
+        width: 90px;
+    }
+
+
+
+    
+
+    .navbar {
+        height: 50px;
+    }
+    .search {
+        margin-left: 31%;
+    }
+    .sect {
+        margin-left: 1px;
+    }
+    .cu {
+        margin-left: 200px;
+    }
+    .herosection {
+        margin-top: 85px;
+    }
+
+    .view-all-button button {
+        margin-left: auto;  
+        margin-right: auto;  
+    }
+    .side {
+        height: 43px;
+        width: 100%;
+        bottom: -50px;
+        top: auto;
+        left: 0;
+        right: 0;
+        /*margin-top: 0;*/
+        margin-left: 0;
+        margin-bottom: 50px;
+        border: 1px solid wheat;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .nl {
+        font-size: 0.7rem;  
+    }
+
+    .bx {
+        width: 14%;
+        margin-left: 5px;
+        height: 100px;
+    }
+    .song .bi {
+        margin-left: 39px;
+    }
+    .bimg {
+        height: 80px;
+    }
+    footer .master_play {
+        bottom: 40px;
+        height: 40px;
+    }
+
+}
+@media screen and (max-width: 790px){
+    .search {
+        margin-left: 30%;
+    }
+    .all {
+        margin-left: 10px;
+    }
+    .box {
+        width: 99px;
+        margin-left: 0px;
+        margin-bottom: 2px;
+    }
+    .song .bi {
+        margin-left: 35px;
+    }
+    .catb {
+        width: 110px;
+    }
+    .ctb {
+        width: 90px;
+        margin-left: 14px;
+        margin-bottom: 0px;
+        height: 91px
+    }
+    .book {
+        margin-left: 10px;
+        width: 110px;
+    }
+    .bt {
+        width: 100px;
+        margin-left: 10px;
+        height: 148px;
+    }
+    .cbox {
+        width: 90px;
+        margin-left: 13px;
+    }
+    .real {
+        margin-left: 8px;
+        width: 203px;
+        height: 60px;
+    }
+    .real .imc {
+        height: 60px;
+        width: 60px;
+    }
+    .real .bi {
+        margin-left: 10px;
+        margin-top: 10px;
+    }
+    .radio {
+        margin-left: 8px;
+        width: 95px;
+    }
+    .ra {
+        width: 95px;
+    }
+    .tb th, td {
+        padding-left: 10px;
+    }
+    .art {
+        height: 60px;
+        width: 80px;
+        margin-top: 12px;
+        margin-left: 8px;
+    }
+.v {
+    height: 91px;
+    width: 90px;
+}
+.bmg {
+    height: 95px;
+    width: 100px;
+}
+.bt .bi {
+     z-index: 1; 
+    position: absolute;
+    margin-left: 35px;
+    margin-top: 37px;
+    font-size: 2rem;
+    opacity: 0.8;
+    color: transparent;
+}
+.bt p {
+    font-weight: 300;
+    margin-left: 0px;
+}
+
+}
+
+@media screen and (max-width: 700px) {
+    .cu {
+        margin-left: 125px;
+    }
+    .bx {
+        margin-left: 4px;
+        height: 116px;
+    }
+    .bx p{
+        font-size: 1rem;
+    }
+    .song .bi {
+        margin-left: 29px;
+    }
+    .real {
+        width: 195px;
+    }
+    .ctb{
+        margin-left: 10px;
+    }
+    .tb {
+        margin-left: 6px;
+    }
+    .tb th, td {
+        padding-left: 5px;
+    }
+}
+@media screen and (max-width: 620px){
+    .logo {
+        margin-left: 12px;
+         margin-top: 20px; 
+        font-weight: 700;
+        font-size: 2rem;
+    }
+    .search {
+        margin-left: 22%;
+    }
+    .all {
+        margin-left: 12px;
+    }
+    .cu {
+        margin-left: 12px;
+    }
+    .ab {
+        margin-left: -8px;
+    }
+    .real {
+        margin-left: 5px;
+        width: 165px;
+        height: 50px;
+    }
+    .real p {
+        color: white;
+        font-size: 1rem;
+        margin-left: 0px;
+        margin-top: 10px;
+        text-align: center;
+    }
+    .real .imc {
+        height: 50px;
+        width: 50px;
+    }
+    .real .bi {
+        margin-left: 6px;
+        margin-top: 6px;
+    }
+    .book {
+       margin-top: 2px;
+        margin-bottom: 20px;
+        height: 155px;
+    }
+}
+@media screen and (max-width: 520px){
+    .logo {
+        margin-left: 5px;
+         margin-top: 20px; 
+        font-weight: 700;
+        font-size: 1.5rem;
+    }
+    .all {
+        margin-left: 5px;
+    }
+    .contact h4 {
+        font-size: 11px;
+    }
+    .herosection {
+        margin-top: 80px;
+    }
+    .bx {
+        margin-left: 5px;
+        margin-top: 0px;
+        height: 110px;
+        width: 100px;
+        /*width: 200px;*/
+    }
+     .bx p{
+        font-size: 1rem;
+    }
+    .bimg {
+        height: 60px;
+    }
+    .song .bi {
+        margin-left: 17px;
+    }
+     #Teri{
+        font-size: 0.9em;
+    }
+    .art {
+        height: 60px;
+        width: 70px;
+        margin-top: 8px;
+        margin-left: 8px;
+    }
+    .box {
+        width: 97px;
+        margin-left: 0px;
+        margin-bottom: 2px;
+        height: 110px;
+    }
+    .catb {
+        width: 100px;
+        margin-top: 10px;
+        height: 35px;
+        margin-left: 20px;
+    }
+    .catb p {
+        border: none;
+        font-style: italic;
+        margin-top: 0px;
+        font-size: 1.4rem;
+        font-weight: 900;
+    }
+    .ctb {
+        width: 80px;
+        margin-left: 10px;
+        height: 80px;
+    }
+    .v {
+        height: 80px;
+        width: 80px;
+    }
+    .bt {
+        width: 100px;
+        margin-left: 6px;
+        height: 130px;
+    }
+    .bmg {
+        height: 80px;
+        width: 80px;
+    }
+    .bt {
+        width: 80px;
+        margin-left: 6px;
+        height: 131px;
+        margin-top: 10px;
+    }
+    .bt .bi {
+         z-index: 1; 
+        position: absolute;
+        margin-left: 19px;
+        margin-top: 20px;
+        font-size: 2rem;
+        opacity: 0.8;
+        color: transparent;
+    }
+    .real {
+        margin-left: 10px;
+        width: 180px;
+        height: 50px;
+    }
+    .bg {
+        height: 80px;
+        width: 80px;
+    }
+    .cbox {
+        width: 80px;
+        margin-left: 10px;
+        margin-top: 10px;
+        height: 80px;
+    }
+    #Finn {
+        font-size: 0.81em;
+    }
+    .book {
+        margin-top: 0px;
+        margin-bottom: 0px;
+        height: 140px;
+        margin-left: 10px;
+        width: 76px;
+        }
+        .ra {
+            width: 80px;
+            height: 80px;
+        }
+        .radio {
+            margin-left: 6px;
+            width: 80px;
+            height: 80px;
+        }
+        .tb th, td {
+            padding-left: 7px;
+            font-size: 0.7em;
+        }
+        .tb {
+            margin-left: 6px;
+            margin-top: 10px;
+             margin-bottom: 95px;
+        }
+        footer .master_play {
+            width: 92%;
+            flex-direction: row;
+            /*bottom:50px;*/
+            align-items: center;
+        }
+        footer .master_play .wave {
+            width: 10px;
+            height: 20px;
+             /*border: 1px solid #fff;*/ 
+            padding-bottom: 5px;
+            display: flex;
+            align-items: flex-end;
+            margin-right: 1px;
+        }
+        footer .master_play img {
+            width: 15px;
+            height: 20px;
+        }
+        footer .master_play h5 {
+            width: 180px;
+             /*border: 1px solid #fff;*/ 
+            margin-left: 5px;
+            color: #fff;
+            line-height: 10px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            font-size: 7px;
+        }
+        footer .master_play .icon {
+            font-size: 12px;
+            color: #fff;
+            margin: 0px 0px 0px 0px;
+            outline: none;
+            display: flex;
+            align-items: center;
+        }
+        footer .master_play .icon .shuffle {
+/*            font-size: 4px;
+            margin-right: 0px;
+            width: 16.5px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;*/
+display: none;
+        }
+        footer .master_play .icon #download_music {
+            text-decoration: none;
+            color: #fff;
+            font-size: 12px;
+            margin-left: 3px;
+        }
+        footer .master_play #currentStart {
+            margin: 0px 0px 0px 6px;
+        }
+       
+        footer .master_play .vol .bi  {
+ position: absolute;
+            color: #fff;
+            font-size: 17px;
+            top: -10px;
+            left: -30px;
+            align-items: center;
+        }
+/*        footer .master_play .vol_bar{
+            display: none;
+        }
+        footer .master_play .dot{
+            display: none;
+        }*/
+    }
+
+    @media screen and (max-width: 444px){
+        #Teri {
+            font-size: 0.8em;
+        }
+    }
+    @media screen and (max-width: 413px){
+        .logo {
+            margin-left: 0px;
+             margin-top: 20px; 
+            font-weight: 600;
+            font-size: 1.4rem;
+        }
+        .search {
+            margin-left: 16%;
+        }
+        .contact h4 {
+            font-size: 9px;
+        }
+        .all {
+            margin-left: 4px;
+        }
+        .song .bi {
+            margin-left: 20px;
+        }
+        .bx {
+            width: 17%;
+        }
+    }
+
+    @media screen and (max-width: 385px){
+        .real {
+            margin-left: 10px;
+            width: 157px;
+            height: 50px;
+        }
+        .tb th, td {
+            padding-left: 5px;
+            font-size: 0.5em;
+        }
+    }
+
+    @media screen and (max-width: 350px){
+        .uimg {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            object-fit: cover;
+            object-position: center;
+            border: 1px solid wheat;
+        }
+        .search {
+            margin-left: 7%;
+            height: 5px;
+        }
+        .contact h4 {
+            font-size: 8px;
+        }
+        .artist span {
+            font-weight: 900;
+            margin-left: 10px;
+            font-size: 1rem;
+        }
+        .bx {
+            margin-left: 5px;
+            margin-top: 0px;
+            height: 105px;
+            width: 19%;
+        }
+        .song .bi {
+            margin-left: 15px;
+        }
+        .box p {
+            align-items: center;
+            justify-content: center;
+            font-size: 0.9em;
+            margin-left: 5px;
+        }
+        .box {
+            width: 88px;
+            margin-left: 0px;
+            margin-bottom: 2px;
+            height: 105px;
+        }
+        .catb {
+            width: 74px;
+            margin-top: 10px;
+            height: 21px;
+        }
+        .catb p {
+            border: none;
+            font-style: italic;
+            margin-top: 0px;
+            font-size: 1rem;
+            font-weight: 900;
+        }
+        .bg {
+            height: 60px;
+            width: 60px;
+        }
+        .cbox {
+            width: 60px;
+            margin-left: 5px;
+            margin-top: 10px;
+            height: 60px;
+        }
+        .ra {
+            width: 60px;
+            height: 60px;
+        }
+        .radio {
+            margin-left: 6px;
+            width: 60px;
+            height: 60px;
+        }
+        footer .master_play .wave {
+    width: 15px;
+    height: 30px;
+  
+    padding-bottom: 5px;
+    display: flex;
+    align-items: flex-end;
+    margin-right: 1px;
+}
+footer .master_play img {
+    width: 30px;
+    height: 30px;
+}
+footer .master_play h5 {
+    width: 130px;
+    
+    margin-left: 5px;
+ 
+    color: #fff;
+    line-height: 10px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 10px;
+}
+footer .master_play .icon .shuffle {
+    font-size: 15px;
+    margin-right: -1px;
+    display: none;
+    width: 16.5px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+footer .master_play .icon .shuffle {
+    font-size: 15px;
+    margin-right: -1px;
+    display: none;
+    width: 16.5px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+footer .master_play .icon .bi:nth-child(3) {
+    border: 1px solid rgb(105, 105, 105,.1);
+    border-radius: 50%;
+    padding: 0px 5px 0px 5px;
+    margin: 0px 5px;
+}
+footer .master_play .icon .bi {
+    cursor: pointer;
+    outline: none;
+    margin-right: -4px;
+}
+footer .master_play .icon {
+    font-size: 12px;
+    color: #fff;
+    margin: 0px 0px 0px 0px;
+    outline: none;
+    display: flex;
+    align-items: center;
+}
+footer .master_play #currentStart {
+    margin: 0px 0px 0px 4px;
+}
+footer .master_play span {
+    color: #fff;
+    width: 32px;
+   
+    font-size: 11px;
+    font-weight: 400;
+    margin-right: -30px;
+}
+footer .master_play .vol .bi {
+    position: absolute;
+    color: #fff;
+    font-size: 20px;
+    margin-left: 11px;
+    top: -10px;
+    left: -30px;
+}
+footer .master_play .vol input {
+    position: absolute;
+    width: 100%;
+    top: -6px;
+   
+    cursor: pointer;
+    z-index: 999999999999999999999999999;
+    opacity: 0;
+}
+#a {
+    font-size: 0.9em;
+    }
+    .real {
+        margin-left: 10px;
+        width: 145px;
+        height: 50px;
+    }
+    }
+
+    @media screen and (max-width: 320px){
+        .real p {
+            color: white;
+            font-size: 0.8rem;
+            margin-left: 0px;
+            margin-top: 8px;
+            text-align: center;
+        }
+        .real {
+            margin-left: 10px;
+            width: 125px;
+            height: 50px;
+        }
+        #a {
+            font-size: 0.7em;
+        }
+        .contact h4 {
+            font-size: 7px;
+        }
+        .all {
+            margin-left: 6px;
+        }
+        #p {
+            font-size: 0.9em;
+        }
+        .bx {
+            margin-left: 5px;
+            margin-top: 0px;
+            height: 90px;
+            width: 22%;
+        }
+    }
