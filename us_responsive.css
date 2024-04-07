@@ -1,0 +1,23 @@
+@media screen and (max-width: 715px){
+    .hero {
+        padding: 0 0%;
+    }
+    .content p {
+        padding: 0px 20px;
+    }
+}
+@media screen and (max-width: 600px){
+    nav {
+        padding: 10px 0%;
+    }
+    /* .hero {
+        width: 113%;
+        height: 113vh;
+        background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+        position: relative;
+        display: flex;
+        padding: 0 5%;
+        align-items: center;
+        justify-content: center;
+    } */
+}
